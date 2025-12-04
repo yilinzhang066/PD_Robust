@@ -33,7 +33,7 @@ library(devtools)
 #> Loading required package: usethis
 library(usethis)
 devtools::install("~/mypkgv3")
-#> data.table (1.17.0 -> 1.17.8) [CRAN]
+
 #> Installing 1 packages: data.table
 #> Installing package into '/private/var/folders/bj/m3sx4xn96ndfp0bw5hxp56cc0000gn/T/RtmpHDjKS2/temp_libpath62192f310205'
 #> (as 'lib' is unspecified)
